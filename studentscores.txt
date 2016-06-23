@@ -1,0 +1,7 @@
+10 tunc 80
+11 mert 50
+12 hakan 60
+14 evren 0
+15 emre 90
+6262 enes 60
+25 eness 80

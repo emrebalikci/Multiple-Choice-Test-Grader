@@ -1,0 +1,56 @@
+The keyword used to transfer control from a function back to the calling function is .....
+a) switch b) goto c) go back d) return
+If the two strings are identical, then strcmp() function returns
+a) -1 b) 1 c) 0 d) yes
+How will you print \n on the screen?
+a) printf("\n"); b) printf(\n); c) printf('\n') d) printf("\\n");
+Which of the following function is more appropriate for reading in a multi-word string?
+a) printf(); b) scanf(); c) gets(); d) puts();
+Which symbol MULTÝ-line comments symbol
+a) // b) /*...*/ c) */ d) *&
+What is the meaning of "\a" ?
+a) Newline b) Alert c) Horizontal tab d) Double quote
+What is the meaning of "\n" ?
+a) Newline b) Alert c) Horizontal tab d) Double quote
+What is the meaning of "\t" ?
+a) Newline b) Alert c) Horizontal tab d) Double quote
+What is the meaning of "\\" ?
+a) Newline b) Alert c) Horizontal tab d) Backslash
+What is the meaning of "int"?
+a) double b) float c) integer d) array
+Which one is true ?
+a) printf("Hello",\n); b) scanf("%s"; c) print("Hello"); d) printf("Hello");
+Which one is true if variable is integer?
+a) 2 b) 2.12 c) 3.00 d) 3.2587
+Which one is true output for float(%.2f)?
+a) 2 b) 2.02 c) 3 d) 3.2587
+What is the meaning of "<" ?
+a) equal to b) greater than c) less than d) less than or equal to
+What is the meaning of "<=" ?
+a) equal to b) greater than c) less than d) less than or equal to
+What is the meaning of ">=" ?
+a) equal to b) greater than c) less than d) greater than or equal to
+What is the meaning of "=" ?
+a) equal to b) greater than c) less than d) greater than or equal to
+Which one is the pointers ?
+a) *ptr b) a[] c) int a; d) FILE
+What does %c mean?
+a) string b) character c) float d) integer
+What does %s mean?
+a) string b) character c) float d) integer
+What does %f mean?
+a) string b) character c) float d) integer
+What does %d mean?
+a) string b) character c) float d) integer
+What is the meaning of "i++"?
+a) first increase after use b) first use after increase c) first decrease after use d) first use aftbWhat is the meaning of "++i"?
+What is the meaning of "++i"?
+a) first increase after use b) first use after increase c) first decrease after use d) first use aftaWhat is the meaning of "i--"?
+What is the meaning of "i--"?
+a) first increase after use b) first use after increase c) first decrease after use d) first use aftdWhat is the meaning of "--i"?
+What is the meaning of "--i"?
+a) first increase after use b) first use after increase c) first decrease after use d) first use aftcWhich one is true output for printf("\aHello\a"); ?
+Which one is true output for printf("\aHello\a"); ?
+a) \aHello b) Hello c) \aHello\a d) hello
+Who is the creator of C programming language?
+a) Dennis Ritchie b) Linus Torvalds c) Ken Thompson d) Brian Kernighan
